@@ -1,0 +1,67 @@
+.clipboard {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	opacity: 0.01;
+	filter: alpha(opacity = 0.01);
+	filter: progid:DXImageTransform.Microsoft.Alpha(opacity=0.01);
+	width: 2px;
+}
+
+span {
+	font-family: FreeMono, monospace;
+	color: #008000;
+	font-size: 20px;
+	line-height: 24px;
+}
+
+div {
+	font-family: FreeMono, monospace;
+	color: #008000;
+	font-size: 20px;
+	line-height: 24px;
+}
+
+textarea {
+    -webkit-appearance: textarea;
+    background-color: white;
+    border: 1px solid;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    -webkit-rtl-ordering: logical;
+    -webkit-user-select: text;
+    flex-direction: column;
+    resize: auto;
+    cursor: auto;
+    padding: 2px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+user agent stylesheetinput, textarea, keygen, select, button {
+    margin: 0em;
+    font: 11px BlinkMacSystemFont;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+}
+
+.cursor.blink {
+	background-color: #aaa;
+	color: #000;
+}
+
+.term-output {
+    padding: 10 0 10 0;
+    font-style: italic;
+    color: #54c754;
+}

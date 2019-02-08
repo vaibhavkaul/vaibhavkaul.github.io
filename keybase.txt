@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/vaibhavkaul
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vaibhavkaul.github.io
+  * I am vaibhavkaul (https://keybase.io/vaibhavkaul) on keybase.
+  * I have a public key ASDgjF1FqSAKnWxGJG4Jo-rZML83-m6vZliicZnerzXTbgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120e08c5d45a9200a9d6c46246e09a3ead930bf37fa6eaf6658a27199deaf35d36e0a",
+            "host": "keybase.io",
+            "kid": "0120e08c5d45a9200a9d6c46246e09a3ead930bf37fa6eaf6658a27199deaf35d36e0a",
+            "uid": "fb902dd7b6da613b2047e04e2d767a19",
+            "username": "vaibhavkaul"
+        },
+        "service": {
+            "hostname": "vaibhavkaul.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1489093009,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1489092988,
+        "hash": "5a5c6e1a44c1e96794ce4cf6216f53248e7c53ba631e8ebde89c9b879c420488d1d456cfbead82a70bb33d1f36bbd778154aa9519023219e09d36bd68a540439",
+        "seqno": 949249
+    },
+    "prev": "7448102d9f110ef3664b3125989ddbdc2988982c052528d16c489579c7d8b62a",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4IxdRakgCp1sRiRuCaPq2TC/N/pur2ZYonGZ3q81024Kp3BheWxvYWTFAwF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTA4YzVkNDVhOTIwMGE5ZDZjNDYyNDZlMDlhM2VhZDkzMGJmMzdmYTZlYWY2NjU4YTI3MTk5ZGVhZjM1ZDM2ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTA4YzVkNDVhOTIwMGE5ZDZjNDYyNDZlMDlhM2VhZDkzMGJmMzdmYTZlYWY2NjU4YTI3MTk5ZGVhZjM1ZDM2ZTBhIiwidWlkIjoiZmI5MDJkZDdiNmRhNjEzYjIwNDdlMDRlMmQ3NjdhMTkiLCJ1c2VybmFtZSI6InZhaWJoYXZrYXVsIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ2YWliaGF2a2F1bC5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4OTA5MzAwOSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg5MDkyOTg4LCJoYXNoIjoiNWE1YzZlMWE0NGMxZTk2Nzk0Y2U0Y2Y2MjE2ZjUzMjQ4ZTdjNTNiYTYzMWU4ZWJkZTg5YzliODc5YzQyMDQ4OGQxZDQ1NmNmYmVhZDgyYTcwYmIzM2QxZjM2YmJkNzc4MTU0YWE5NTE5MDIzMjE5ZTA5ZDM2YmQ2OGE1NDA0MzkiLCJzZXFubyI6OTQ5MjQ5fSwicHJldiI6Ijc0NDgxMDJkOWYxMTBlZjM2NjRiMzEyNTk4OWRkYmRjMjk4ODk4MmMwNTI1MjhkMTZjNDg5NTc5YzdkOGI2MmEiLCJzZXFubyI6MTEsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAR8b6LoSBa3gGIFFok0jlbfiLNS/sLkv/dyy9Rwc1FwpyClodnwpJcGkwaCqPp0cgqYI130zITuS0sEyXDoj2AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIO7vuTY3X6KZ6xgZDp7a6nIUw7ZXQunHlSzARXPEqa2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vaibhavkaul
+
+==================================================================
