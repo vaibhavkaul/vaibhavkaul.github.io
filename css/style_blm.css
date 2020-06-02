@@ -27,3 +27,13 @@ body {
 .callout {
     font-size: 12px;
 }
+
+th {
+   color: #fff; 
+   text-align: center;
+   width: 33%;
+}
+
+td {
+    text-align: center;
+}
